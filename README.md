@@ -24,7 +24,7 @@ All data preparation, modeling, and visualization were performed entirely in **M
 
 ---
 ## 📁 Dataset used 
-- <a href="
+- <a href="https://github.com/SakshiJ29/excel-sales-profit-dashboard/blob/main/Sales%20Data%20Set%20for%20Dashboard.xlsx">Dataset<a/>
 ## 🧰 Tools & Techniques Used
 
 | Tool | Purpose |
@@ -70,16 +70,20 @@ All visuals are fully interactive using slicers.
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](https://github.com/SakshiJ29/excel-sales-profit-dashboard/blob/main/Dashboard%20screenshot.png)
 
-*(Upload your dashboard image in the repository and name it `dashboard.png`)*
+### 📥 Download Dashboard File
+
+[Click here to download the Excel dashboard](https://github.com/SakshiJ29/excel-sales-profit-dashboard/blob/main/Excel%20sales%20profit%20analysis.xlsx)
+
+
 
 ---
 
 ## 🔍 Key Insights
 
-- Certain states and cities consistently generate the highest profit
-- Specific products result in losses and require business attention
+- California, Texas, and New York are the highest profit-generating states
+- Certain products consistently operate at a loss and need attention
 - **Regular Air** is the most frequently used shipment mode
 - **Consumer segment** contributes significantly to total revenue
 
